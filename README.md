@@ -3,7 +3,7 @@
 Vários templates para interagir com soluções de I/O, ferramentas, e o que mais eu lembrar...
 
 - Armazenamento: `misc_crud/io/`
-    - [x] [Apache Kafka](misc_crud/io/kafka.py)
+    - [ ] [Apache Kafka](misc_crud/io/kafka.py)
     - [x] [Postgre](misc_crud/io/postgre.py)
     - [x] [Redis](misc_crud/io/redis.py)
     - [x] [Amazon S3](misc_crud/io/s3.py)
